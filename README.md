@@ -13,3 +13,7 @@ class at Columbia University and New York University.
 3. Open `chat.html` in any browser.
 4. Start sending messages to test the chatbot interaction.
 
+## SUBMISSION INFO ##
+
+Daniel Guo, dg3287
+http://dining-concierge-front.s3-website-us-east-1.amazonaws.com
